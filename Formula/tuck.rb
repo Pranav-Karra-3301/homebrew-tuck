@@ -10,7 +10,7 @@
 class Tuck < Formula
   desc "Modern, beautiful dotfiles manager CLI"
   homepage "https://github.com/Pranav-Karra-3301/tuck"
-  url "https://registry.npmjs.org/tuck/-/tuck-0.1.0.tgz"
+  url "https://registry.npmjs.org/@prnv/tuck/-/tuck-1.0.0.tgz"
   sha256 "PLACEHOLDER"
   license "MIT"
 
