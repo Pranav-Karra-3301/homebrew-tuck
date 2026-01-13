@@ -1,8 +1,8 @@
 class Tuck < Formula
   desc "Modern, beautiful dotfiles manager CLI"
   homepage "https://github.com/Pranav-Karra-3301/tuck"
-  url "https://registry.npmjs.org/@prnv/tuck/-/tuck-1.4.0.tgz"
-  sha256 "d6965c58c99177bc412613317d9c70793e3fb848b0a820e3560479a0725ea4e4"
+  url "https://registry.npmjs.org/@prnv/tuck/-/tuck-1.4.1.tgz"
+  sha256 "8fe94142203469e9ccb52c09d4ac27ac844d1629f5818468cc0077f726be46b5"
   license "MIT"
   depends_on "node@20"
   def install
